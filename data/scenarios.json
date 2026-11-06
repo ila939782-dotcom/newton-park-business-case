@@ -1,0 +1,14 @@
+{
+  "base": {},
+  "downside": {
+    "lead_multiplier": 0.7,
+    "conversion_multiplier": 0.75,
+    "price_multiplier": 0.85,
+    "sales_lag_months": 2
+  },
+  "upside": {
+    "lead_multiplier": 1.25,
+    "conversion_multiplier": 1.15,
+    "price_multiplier": 1.1
+  }
+}

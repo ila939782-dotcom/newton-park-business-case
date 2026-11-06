@@ -1,0 +1,13 @@
+{
+  "currency": "RUB",
+  "period": "2025-05 to 2026-04 (historical educational forecast, not actuals)",
+  "lead_multiplier": 1.0,
+  "conversion_multiplier": 1.0,
+  "price_multiplier": 1.0,
+  "fixed_cost_multiplier": 1.0,
+  "sales_lag_months": 1,
+  "collection_lag_months": 1,
+  "upfront_share": 0.5,
+  "delivery_cost_per_contract_rub": 180000,
+  "opening_cash_rub": 4000000
+}
